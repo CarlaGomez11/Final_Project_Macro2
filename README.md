@@ -28,7 +28,7 @@ macroeconomics_final_project/
 │   ├── Regla01/                             # Regla de Taylor con expectativas
 │   └── Regla02/                             # Regla de Taylor con variables corrientes
 │
-└── TrabajoFinal_DeLaRosa_Fernandez_Gomez.pdf  # Informe final en PDF
+└── TrabajoFinal_DeLaRosa_Fernandez_Gomez_Zarate.pdf  # Informe final en PDF
 ```
 
 Cada subcarpeta contiene:
