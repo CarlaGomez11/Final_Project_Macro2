@@ -11,6 +11,7 @@ Este repositorio contiene todos los materiales, archivos `.mod` de Dynare, scrip
 ---
 
 ## 📁 Estructura del Repositorio
+Por motivos de tamaño, se comprimió en un archivo zip el documento, dadas las restricciones de tamaño límite de la versión gratuita de GitHub.
 
 ```
 macroeconomics_final_project/
